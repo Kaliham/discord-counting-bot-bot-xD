@@ -14,7 +14,6 @@ public class Bot {
         robot = new Robot();
         System.out.println("Print starting..");
         robot.delay(5000);
-
         call();
     }
 
